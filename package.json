@@ -1,0 +1,25 @@
+{
+  "name": "pg-client-wrapper",
+  "version": "1.0.0",
+  "description": "A Client Wrapper for the https://node-postgres.com/ package to simplify query handling",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sscots/node-pg-client-wrapper.git"
+  },
+  "keywords": [
+    "node-pg",
+    "postgresql",
+    "nodejs"
+  ],
+  "author": "Scot Schroeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sscots/node-pg-client-wrapper/issues"
+  },
+  "homepage": "https://github.com/sscots/node-pg-client-wrapper#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "pg": "^7.12.1"
+  }
+}
