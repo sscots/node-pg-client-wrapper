@@ -20,6 +20,6 @@
   "homepage": "https://github.com/sscots/node-pg-client-wrapper#readme",
   "dependencies": {
     "lodash": "^4.17.21",
-    "pg": "^7.12.1"
+    "pg": "^8.11.0"
   }
 }
